@@ -14,5 +14,4 @@ fetch("https://type.fit/api/quotes")
 
   function reloadPage(){
     location.reload();
-}
-generateQuote();
+  }
